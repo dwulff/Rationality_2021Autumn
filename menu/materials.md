@@ -19,7 +19,8 @@ e {
 <a href="https://dwulff.github.io/Rationality_2020Autumn/assets/key/Intro.pdf">Intro.pdf</a>
 
 
-# Heuristiken
+<u>Heuristiken</u>
+<hr>
 
 ## 28.09.
 
@@ -78,7 +79,8 @@ Affirmative: Gruppe 1<br>
 Negative: Gruppe 2<br>
 Judges: Gruppe 3
 
-# AI
+<u>AI</u>
+<hr>
 
 ## 09.11.
 ## 16.11.
@@ -87,7 +89,8 @@ Judges: Gruppe 3
 <e>-Kein Seminar-</e>
 
 
-# Wirtschaft / Komplexität
+<u>Wirtschaft / Komplexität</u>
+<hr>
 
 ## 07.12.
 ## 14.12.
