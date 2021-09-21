@@ -18,8 +18,8 @@ e {
 
 - Presentation: <a href="https://dwulff.github.io/Rationality_2021Autumn/assets/key/Intro.pdf">Intro.pdf</a>
 
-<u>Heuristiken</u>
 <hr>
+<i>Heuristiken</i>
 
 ## 28.09.
 
@@ -78,8 +78,9 @@ Affirmative: Gruppe 1<br>
 Negative: Gruppe 2<br>
 Judges: Gruppe 3
 
-<u>AI</u>
+
 <hr>
+<i>AI</i>
 
 ## 09.11.
 ## 16.11.
@@ -88,8 +89,9 @@ Judges: Gruppe 3
 <e>-Kein Seminar-</e>
 
 
-<u>Wirtschaft / Komplexität</u>
 <hr>
+<i>Wirtschaft / Komplexität</i>
+
 
 ## 07.12.
 ## 14.12.
