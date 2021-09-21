@@ -16,9 +16,6 @@ e {
 
 <e>Intro</e>
 
-<a href="https://dwulff.github.io/Rationality_2020Autumn/assets/key/Intro.pdf">Intro.pdf</a>
-
-
 <u>Heuristiken</u>
 <hr>
 
