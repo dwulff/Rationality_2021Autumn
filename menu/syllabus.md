@@ -14,7 +14,7 @@ Lerne die theoretischen Hintergründe guter Entscheidungen kennen und reflektier
 
 ## Benotung
 Der Kurs wird mit PASS/FAIL bewertet. Studierende erhalten ein PASS durch Erfüllung der folgenden Anforderungen:
-1. Bearbeiten der Vorbereitungsliteratur und tauscht Euch auf Slack darüber in Euren Gruppen aus</a>
+1. Bearbeiten der Vorbereitungsliteratur und tauscht Euch auf Slack darüber in Euren Gruppen aus
 2. Engagierte Mitarbeit in Diskussion und Präsentationen im Seminar
 3. Aktive und passive Teilnahme an drei <a href="menu/debatten">Debatten</a>
 
