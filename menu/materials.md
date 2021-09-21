@@ -16,6 +16,8 @@ e {
 
 <e>Intro</e>
 
+- Presentation: <a href="https://dwulff.github.io/Rationality_2021Autumn/assets/key/Intro.pdf">Intro.pdf</a>
+
 <u>Heuristiken</u>
 <hr>
 
