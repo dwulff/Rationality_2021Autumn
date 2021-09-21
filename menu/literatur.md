@@ -10,23 +10,22 @@ title: Literaturarbeit
   }
 </style>
 
-In den meisten Sitzungen setzen wir uns aktiv mit ein bis zwei Aufsätzen auseinander. Die Literatur sind im Vorfeld von allen Seminarteilnehmern über Perusall (siehe unten) zu bearbeiten. Die Sitzungen bestehen dann aus drei Abschnitten: Aufbereitung, Präsentation, und Diskussion.
+In den meisten Sitzungen setzen wir uns aktiv mit ein bis zwei Artikeln auseinander. Die Literatur ist im Vorfeld von allen Seminarteilnehmern zu bearbeiten. Die Sitzungen bestehen dann aus drei Abschnitten zusammen: Aufbereitung, Präsentation, und Diskussion.
 
 ## Vorbereitung
 
-Ihr findet die Lektüre für die jeweilige Seminarsitzung in Perusall unter Leseaufträge. Lest und bearbeitet als Vorbereitung die gesamte Literatur. Bearbeiten bedeutet Markierungen, Kommentare, Fragen hinzuzufügen und die der anderen zu ergänzen oder zu beantworten.  
+Ihr findet die Lektüre für die jeweilige Seminarsitzung unter <a href="menu/materials"><b>Agenda & Materialien</b></a>. Lest und bearbeitet als Vorbereitung die gesamte Literatur. Bearbeiten bedeutet nicht nur die Inhalte verstehen und verinnerlichen, sondern gegebenenfalls auch zusätzliche Recherche.  
 
 Sobald mit der zweiten Sitzung als Gruppen einzelnen Fragen zugeordnet seit, könnt Ihr Eure Vorbereitung besonders auf die für Euch relevanten stellen fokussieren.
 
-Bearbeiten bedeutet auch sich über über die Literatur hinausgehend sich zu information, z.B. durch Recherche im WWW. Einige Fragen werden dies insbesondere erfordern.  
+Während der Vorbereitung tauscht Euch mit Euren Gruppenmitgliedern über Slack aus.  
 
-<a href="https://perusall.com/">Perusall</a> ist ein sozialer E-Reader, der das interaktive Lesen und Bearbeiten der Seminarlektüre ermöglicht und tracked.
 
-### Anmelden bei Perusall
-1. Möglich bis <b>Freitag, 18. September</b>, 23.59Uhr.
-2. Erstellt einen freien account auf https://perusall.com/
-3. Verwendet den Code <b>WULFF-UJNGG</b> um dem Seminar beizutreten.
+## Slack
 
+Slack ist eine freie Kommunikationsplatform. Ladet die Software runter und tretet dann dem Seminarworkspace mit diesem <a href="https://join.slack.com/t/slack-7ir5572/shared_invite/zt-w5kbfhk4-Van2ehqF1bs99AkmBNNMTw">Link</a> bei.  
+
+Anschliessend lade ich Euch in Euren jeweiligen Gruppenkanal ein.
 
 ## Sitzungen
 

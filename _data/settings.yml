@@ -8,7 +8,6 @@ google-ID: 'UA-112060364-1'
 menu:
 - {name: 'Syllabus',   path: 'menu', url: 'syllabus.html'}
 - {name: 'Agenda & Materialien',   path: 'menu', url: 'materials.html'}
-- {name: 'Gruppen',   path: 'menu', url: 'gruppen.html'}
 - {name: 'Literaturarbeit',   path: 'menu', url: 'literatur.html'}
 - {name: 'Debatten',   path: 'menu', url: 'debatten.html'}
 - {name: 'Zoom',   path: 'menu', url: 'zoom.html'}
