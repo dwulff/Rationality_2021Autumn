@@ -23,8 +23,8 @@ e {
 
 <e>Die Anfänge</e>
 
-<a href="assets/pdf/Pascal_Wager.pdf">Pascal</a>,
-<a href="assets/pdf/Bernoulli_1954_Exposition of a new theory on the measurement of risk.pdf">Bernoulli</a>
+<a href="https://dwulff.github.io/Rationality_2021Autumn/assets/pdf/Pascal_Wager.pdf">Pascal</a>,
+<a href="https://dwulff.github.io/Rationality_2021Autumn/assets/pdf/Bernoulli_1954_Exposition of a new theory on the measurement of risk.pdf">Bernoulli</a>
 
 1. Wer waren Blaise Pascal und Daniel Bernoulli? Erläutere anhand zusätzlicher Rechereche welche Rollen Sie für die Geschichte der Wissenschaft und der Entscheidungstheorie spielen.
 2. Was ist das St. Petersburg paradox und wie löst es Bernoulli? Erläutere u.a. anhand der Abbildung in §6 und den Formeln in §17ff.
@@ -34,8 +34,8 @@ e {
 
 <e>Heuristics & Biases</e>
 
-<a href="assets/pdf/Tversky&Kahneman1973Heuristics&Biases.pdf">Tversky & Kahneman 1973</a>,
-<a href="assets/pdf/TverskyKahnemanFramingDecisions1986.pdf">Tversky & Kahneman 1986</a>
+<a href="https://dwulff.github.io/Rationality_2021Autumn/assets/pdf/Tversky&Kahneman1973Heuristics&Biases.pdf">Tversky & Kahneman 1973</a>,
+<a href="https://dwulff.github.io/Rationality_2021Autumn/assets/pdf/TverskyKahnemanFramingDecisions1986.pdf">Tversky & Kahneman 1986</a>
 
 1. Welches sind Eurer Ansicht nach die 3 überzeugensten Verletzungen von Rationalität? Trefft eine Auswahl und begründet diese.
 2. Was ist der axiomatische Ansatz den Kahneman und Tversky eingangs erwähnen? Welche Annahmen (Axiome) werden gemacht? Externe Recherche nötig.
@@ -49,7 +49,7 @@ e {
 
 <e>Fast and frugal heuristics</e>
 
-<a href="assets/pdf/GigerenzerBrighton2009HomoHeuristicus.pdf">Gigerenzer & Brighton 2009</a>
+<a href="https://dwulff.github.io/Rationality_2021Autumn/assets/pdf/GigerenzerBrighton2009HomoHeuristicus.pdf">Gigerenzer & Brighton 2009</a>
 
 1. Wie definieren Gigerenzer und Brighton Heuristiken, unter welchen Bedingungen funktionieren sie gut? Beantworte unter Verwendung von ein bis zwei Beispielen.
 2. Was sind nach Gigerenzer & Brighton gute Entscheidungen? Belege mit Textstellen.  
@@ -59,8 +59,8 @@ e {
 
 <e>Debiasing versus bias bias</e>
 
-<a href="assets/pdf/CroskerryEtAl2013.pdf">Croskerry et al. 2013</a>,
-<a href="assets/pdf/Gigerenzer2018.pdf">Gigerenzer 2018</a>
+<a href="https://dwulff.github.io/Rationality_2021Autumn/assets/pdf/CroskerryEtAl2013.pdf">Croskerry et al. 2013</a>,
+<a href="https://dwulff.github.io/Rationality_2021Autumn/assets/pdf/Gigerenzer2018.pdf">Gigerenzer 2018</a>
 
 1. Was sind cognitive biases und wodurch entstehen sie? Erläutere an Beispielen aus Croskerry et al.
 2. Was sind nach Gigerenzer gute Entscheidungen und welche spielt Unsicherheit dabei? Externe Recherche hinsichtlich des Begriffs Unsicherheit erwartet.
