@@ -19,7 +19,7 @@ Der Kurs wird mit PASS/FAIL bewertet. Studierende erhalten ein PASS durch Erfül
 3. Aktive und passive Teilnahme an drei <a href="menu/debatten">Debatten</a>
 
 ## Agenda
-See <a href="">Agenda & Materialien</a>
+See <a href="materials">Agenda & Materialien</a>
 
 ## Ort
 <a href="menu/zoom">Zoom</a>
