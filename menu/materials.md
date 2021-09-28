@@ -28,9 +28,8 @@ e {
 <a href="https://dwulff.github.io/Rationality_2021Autumn/assets/pdf/Pascal_Wager.pdf">Pascal</a>,
 <a href="https://dwulff.github.io/Rationality_2021Autumn/assets/pdf/Bernoulli_1954_Exposition of a new theory on the measurement of risk.pdf">Bernoulli</a>
 
-1. Wer waren Blaise Pascal und Daniel Bernoulli? Erläutere anhand zusätzlicher Rechereche welche Rollen Sie für die Geschichte der Wissenschaft und der Entscheidungstheorie spielen.
-2. Was ist das St. Petersburg paradox und wie löst es Bernoulli? Erläutere u.a. anhand der Abbildung in §6 und den Formeln in §17ff.
-3. Wie sind nach Pascal und Bernoulli gute Entscheidungen zu treffen? Worin sind sie sich einig, worin unterscheiden Sie sich. Erläutere mittels Textstellen.  
+1. Was ist das St. Petersburg paradox und wie löst es Bernoulli? Erläutere u.a. anhand der Abbildung in §6 und den Formeln in §17ff.
+2. Wie sind nach Pascal und Bernoulli gute Entscheidungen zu treffen? Worin sind sie sich einig, worin unterscheiden Sie sich. Erläutere mittels Textstellen.  
 
 ## 05.10.
 
