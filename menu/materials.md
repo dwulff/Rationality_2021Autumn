@@ -40,7 +40,6 @@ e {
 
 1. Welches sind Eurer Ansicht nach die 3 überzeugensten Verletzungen von Rationalität? Trefft eine Auswahl und begründet diese.
 2. Was ist der axiomatische Ansatz den Kahneman und Tversky eingangs erwähnen? Welche Annahmen (Axiome) werden gemacht? Externe Recherche nötig.
-3. Was sind nach Kahneman und Tversky gute Entscheidungen und wie sehen sie Heuristiken? Belege mit Textstellen.
 
 ## 12.10.
 
@@ -52,9 +51,8 @@ e {
 
 <a href="https://dwulff.github.io/Rationality_2021Autumn/assets/pdf/GigerenzerBrighton2009HomoHeuristicus.pdf">Gigerenzer & Brighton 2009</a>
 
-1. Wie definieren Gigerenzer und Brighton Heuristiken, unter welchen Bedingungen funktionieren sie gut? Beantworte unter Verwendung von ein bis zwei Beispielen.
-2. Was sind nach Gigerenzer & Brighton gute Entscheidungen? Belege mit Textstellen.  
-3. Was ist das Bias-Variance-dilemma? Welche Bedeutung hat es für Heuristiken und für Statistik im Allgemeinen. Externe Recherche erwartet.
+1. Was ist das Bias-Variance-dilemma? Welche Bedeutung hat es für Heuristiken und für Statistik im Allgemeinen. Externe Recherche erwartet.
+2. Wie definieren Gigerenzer und Brighton Heuristiken, unter welchen Bedingungen funktionieren sie gut? Beantworte unter Verwendung von ein bis zwei Beispielen.
 
 ## 26.10.
 
@@ -64,8 +62,7 @@ e {
 <a href="https://dwulff.github.io/Rationality_2021Autumn/assets/pdf/Gigerenzer2018.pdf">Gigerenzer 2018</a>
 
 1. Was sind cognitive biases und wodurch entstehen sie? Erläutere an Beispielen aus Croskerry et al.
-2. Was sind nach Gigerenzer gute Entscheidungen und welche spielt Unsicherheit dabei? Externe Recherche hinsichtlich des Begriffs Unsicherheit erwartet.
-3. Was ist der bias-bias und wodurch ist er entstanden? Erläutere an Beispielen.
+2. Was ist der bias-bias und wodurch ist er entstanden? Erläutere an Beispielen.
 
 ## 02.11.
 
@@ -75,7 +72,6 @@ Resolution: ÄrztInnen sollten sich mehr auf ihre Intuition (Heuristiken) verlas
 
 Affirmative: Gruppe 1<br>
 Negative: Gruppe 2<br>
-Judges: Gruppe 3
 
 
 <hr>
