@@ -117,7 +117,7 @@ Negative: Gruppe 2<br>
 
 ## 21.12.
 
-<e>Debatte II: Heuristiken</e>
+<e>Debatte II: AI</e>
 
 Resolution: <a href="https://content.sciendo.com/configurable/contentpage/journals$002fjagi$002f5$002f1$002farticle-p1.xml"><b>AGI (artificial general intelligence)</b></a> wird unser Leben verbessern.<br>
 
