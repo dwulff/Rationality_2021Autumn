@@ -66,6 +66,14 @@ e {
 
 ## 02.11.
 
+<e>Q&A</e>
+
+## 09.11.
+
+<e>-Kein Seminar-</e>
+
+## 16.11.
+
 <e>Debatte I: Heuristiken</e>
 
 Resolution: ÄrztInnen sollten sich mehr auf ihre Intuition (Heuristiken) verlassen dürfen.<br>
@@ -73,24 +81,46 @@ Resolution: ÄrztInnen sollten sich mehr auf ihre Intuition (Heuristiken) verlas
 Affirmative: Gruppe 1<br>
 Negative: Gruppe 2<br>
 
-
 <hr>
 <i>AI</i>
 
-## 09.11.
-## 16.11.
 ## 23.11.
+
+<e>Algorithms to live by</e>
+
+<a href="https://dwulff.github.io/Rationality_2021Autumn/assets/pdf/Algorithms_intro.pdf">Christian & Griffith (2016, Intro)</a>,
+<a href="https://dwulff.github.io/Rationality_2021Autumn/assets/pdf/Algorithms_Explore.pdf">Christian & Griffith (2016, Ch. 2)</a>
+
+1. Was ist das explore-exploit-dilemma (EED) und in welchen Situationen, artifiziell und real, tritt es auf? Bringe Beispiele aus dem Text und darüber hinaus.  
+2. Welche Lösungen/Strategien für das EED existieren und können sie unsere Entscheidungen im realen Leben verbessern? Unter welchen Bedingungen ja, unter welchen nicht?
+
 ## 30.11.
+
 <e>-Kein Seminar-</e>
 
-
-<hr>
-<i>Wirtschaft / Komplexität</i>
-
-
 ## 07.12.
+
+<e>Goals</e>
+
+<a href="https://dwulff.github.io/Rationality_2021Autumn/assets/pdf/Tegmark20217Omega.pdf">Tegmark (2017, Ch. 1)</a>,
+<a href="https://dwulff.github.io/Rationality_2021Autumn/assets/pdf/Tegmark2017Goals.pdf">Tegmark (2017, Ch. 7)</a>
+
+
+1. Was sind (gute) Ziele? Wie können wir gute Ziele identifizieren?
+2. Was ist das "goal-alignment-problem" und wie kann es schief gehen?
+
 ## 14.12.
+
+<e>AI safety & Q&A</e>
+
+<a href="https://arxiv.org/pdf/1606.06565.pdf%20http://arxiv.org/abs/1606.06565.pdf">Amodei et al. (2016)</a>,
+
 ## 21.12.
+
+Resolution: <a href="https://content.sciendo.com/configurable/contentpage/journals$002fjagi$002f5$002f1$002farticle-p1.xml"><b>AGI (artificial general intelligence)</b></a> wird unser Leben verbessern.<br>
+
+Affirmative: Gruppe 2<br>
+Negative: Gruppe 1
 
 <!---
 
