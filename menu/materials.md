@@ -102,7 +102,7 @@ Negative: Gruppe 2<br>
 
 <e>Goals</e>
 
-<a href="https://dwulff.github.io/Rationality_2021Autumn/assets/pdf/Tegmark20217Omega.pdf">Tegmark (2017, Ch. 1)</a>,
+<a href="https://dwulff.github.io/Rationality_2021Autumn/assets/pdf/Tegmark20217Omegas.pdf">Tegmark (2017, Ch. 1)</a>,
 <a href="https://dwulff.github.io/Rationality_2021Autumn/assets/pdf/Tegmark2017Goals.pdf">Tegmark (2017, Ch. 7)</a>
 
 
